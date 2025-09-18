@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16fbf4ea-01db-4c35-8244-1dcc493d9a6a" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/Modul 1.2/task_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modul 1.2/task_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modul 1.2/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modul 1.2/task_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,7 @@
     "Python.task_2.executor": "Run",
     "Python.task_3.executor": "Run",
     "Python.task_4.executor": "Run",
+    "Python.task_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
