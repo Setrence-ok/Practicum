@@ -12,6 +12,8 @@ def calculate_months_to_threshold(start, rate, threshold):
         while start <= threshold:
             start = start + (start * rate)
             months_to_threshold += 1
+            if months_to_threshold > 1000:
+                break
         return months_to_threshold
 
 # Пример использования
