@@ -42,6 +42,8 @@ model.fit(X, Y)
 
 Y_pred = model.predict(X)
 
+print(*np.round(model.w, 2))
+print(np.round(model.b, 2))
 
 plt.scatter(X, Y, color = 'blue')
 plt.plot(X, Y_pred, color = 'orange')
