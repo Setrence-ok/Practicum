@@ -30,7 +30,7 @@ class LinearRegression() :
     def predict( self, X ) :
         return X @ self.w + self.b
 
-df = pd.read_csv( "salary_data.csv" )
+df = pd.read_csv("salary_data.csv")
 
 X = df.iloc[:,:-1].values
 Y = df.iloc[:,1].values

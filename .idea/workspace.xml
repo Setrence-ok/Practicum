@@ -4,10 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16fbf4ea-01db-4c35-8244-1dcc493d9a6a" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/Modul 1.2/task_5.py" afterDir="false" />
+    <list default="true" id="16fbf4ea-01db-4c35-8244-1dcc493d9a6a" name="Changes" comment="Commit ML First HomeWork#2">
+      <change afterPath="$PROJECT_DIR$/ML/HomeWork#2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/PMF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/gistogramma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/graphs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/seborn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/work.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/рло.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modul 1.2/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modul 1.2/task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,17 +52,81 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Hello World.executor": "Run",
+    "Python.HomeWork#1.executor": "Run",
+    "Python.HomeWork#2.executor": "Run",
+    "Python.PMF.executor": "Run",
+    "Python.fdfh.executor": "Run",
+    "Python.gistogramma.executor": "Run",
+    "Python.graphs.executor": "Run",
     "Python.modul_1.2.executor": "Run",
+    "Python.seborn.executor": "Run",
+    "Python.task_2.1.executor": "Run",
+    "Python.task_2.2.executor": "Run",
+    "Python.task_2.3.executor": "Run",
+    "Python.task_2.4.executor": "Run",
+    "Python.task_2.5.executor": "Run",
+    "Python.task_2.6.executor": "Run",
     "Python.task_2.executor": "Run",
+    "Python.task_3.2.executor": "Run",
+    "Python.task_3.3.executor": "Run",
+    "Python.task_3.4.executor": "Run",
+    "Python.task_3.5.executor": "Run",
+    "Python.task_3.6.executor": "Run",
+    "Python.task_3.7.executor": "Run",
+    "Python.task_3.8.executor": "Run",
     "Python.task_3.executor": "Run",
+    "Python.task_4.1.executor": "Run",
+    "Python.task_4.2.executor": "Run",
+    "Python.task_4.3.executor": "Run",
+    "Python.task_4.4.executor": "Run",
+    "Python.task_4.5.executor": "Run",
     "Python.task_4.executor": "Run",
     "Python.task_5.executor": "Run",
+    "Python.test_3.1.executor": "Run",
+    "Python.tests.executor": "Run",
+    "Python.work.executor": "Run",
+    "Python.рло.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/Practicum/ML"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Practicum\ML" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="HomeWork#2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Practicum" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\User\PycharmProjects\Practicum\ML\HW#2\HomeWork#2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.HomeWork#2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -79,7 +150,23 @@
       <option name="project" value="LOCAL" />
       <updated>1758050941810</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit ML First HomeWork">
+      <option name="closed" value="true" />
+      <created>1763805510859</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763805510859</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit ML First HomeWork#2">
+      <option name="closed" value="true" />
+      <created>1763805676124</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763805676124</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,7 +180,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
@@ -107,6 +194,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Commit ML First HomeWork" />
+    <MESSAGE value="Commit ML First HomeWork#2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit ML First HomeWork#2" />
   </component>
 </project>
