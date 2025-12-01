@@ -68,16 +68,16 @@ def run_experiment():
     n_iter = 500
     eta = 0.1  # скорость обучения
 
-    print("Начинаем обучение...")
+    print("Начинаем обучение: ")
     print(f"Количество итераций: {n_iter}")
     print(f"Скорость обучения (eta): {eta}")
     print(f"Размер данных: {X_with_bias.shape}")
-    print("-" * 50)
+    print("\n")
 
     # Обучаем модель
     w_trained, losses = optimize(w_init, X_with_bias, y, n_iter, eta)
 
-    print("-" * 50)
+    print("\n")
     print(f"Обучение завершено. Финальный loss: {losses[-1]:.4f}")
 
     # Делаем предсказания
@@ -94,7 +94,7 @@ def run_experiment():
     axes[0].plot(losses)
     axes[0].set_title('Функция потерь во время обучения')
     axes[0].set_xlabel('Итерация')
-    axes[0].set_ylabel('Log Loss')
+    axes[0].set_ylabel('Loss')
     axes[0].grid(True)
 
     # Визуализация данных и разделяющей границы
@@ -113,7 +113,7 @@ def run_experiment():
         Z = Z.reshape(xx1.shape)
 
         # Отображаем данные и границу решения
-        axes[1].contourf(xx1, xx2, Z, alpha=0.3, cmap=plt.cm.RdYlBu)
+        axes[1].contourf(xx1, xx2, Z, alpha = 0.3, cmap = plt.cm.RdYlBu)
         axes[1].scatter(X_original[y == 0, 0], X_original[y == 0, 1],
                         c='blue', label='Класс 0', alpha=0.6)
         axes[1].scatter(X_original[y == 1, 0], X_original[y == 1, 1],
@@ -128,7 +128,7 @@ def run_experiment():
     from sklearn.metrics import confusion_matrix
     cm = confusion_matrix(y, y_pred)
 
-    im = axes[2].imshow(cm, interpolation='nearest', cmap=plt.cm.Blues)
+    im = axes[2].imshow(cm, interpolation='nearest', cmap = plt.cm.Blues)
     axes[2].set_title('Матрица ошибок')
     axes[2].set_xlabel('Предсказанный класс')
     axes[2].set_ylabel('Истинный класс')

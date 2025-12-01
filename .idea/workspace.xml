@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16fbf4ea-01db-4c35-8244-1dcc493d9a6a" name="Changes" comment="Commit ML First HomeWork#2">
-      <change afterPath="$PROJECT_DIR$/ML/HomeWork#2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML/HW#2/Additional_questions.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Math/PMF.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Math/gistogramma.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Math/graphs.py" afterDir="false" />
@@ -14,6 +14,7 @@
       <change afterPath="$PROJECT_DIR$/Math/work.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Math/рло.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML/HW#2/HomeWork#2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML/HW#2/HomeWork#2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,6 +98,10 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\Practicum\ML" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Practicum\ML\HW#1" />
+      <recent name="C:\Users\User\PycharmProjects\Practicum\ML\HW#2" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="HomeWork#2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -166,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763805676124</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit ML First HomeWork#2">
+      <option name="closed" value="true" />
+      <created>1764614366944</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1764614366944</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
